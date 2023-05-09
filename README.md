@@ -11,5 +11,5 @@ As part of a recent project, we were tasked with the challenge of extracting inf
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Lab</b> (
+- <b>Jupyter Lab</b>
 
